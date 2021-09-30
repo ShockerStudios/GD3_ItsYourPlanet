@@ -28,7 +28,7 @@ public class Planet : MonoBehaviour
 
     void Start()
     {
-        //GeneratePlanet();
+        GeneratePlanet();
     }
 
     void Initialize()
